@@ -1,0 +1,19 @@
+{
+  "name": "magangku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "jiddanfr",
+  "license": "ISC",
+  "dependencies": {
+    "electron-reload": "^2.0.0-alpha.1",
+    "mysql2-promise": "^0.1.4",
+    "promise-mysql": "^5.0.4"
+  },
+  "devDependencies": {
+    "electron": "^15.3.2"
+  }
+}
